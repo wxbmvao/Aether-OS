@@ -1,0 +1,13 @@
+2025.09.23 - version 1
+
+> 2025.09.23
+- background color
+- loading visual and button
+
+> 2025.09.24
+- updated loading visual style
+- added "taskbar"
+
+2025.09.31 - end version 1
+
+
